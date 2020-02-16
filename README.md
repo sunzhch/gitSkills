@@ -1,6 +1,6 @@
 # gitSkills
 learn git skills
-
+git is a free software;
 create a new branch is quick and simple;
 
 test git skills;
@@ -10,3 +10,9 @@ this is a branch merge test;
 
 
 git test --no-ff merge;
+
+# -------------------------------------------------
+git stash test; 
+
+# ------------------------------
+git test cherry_Pick
