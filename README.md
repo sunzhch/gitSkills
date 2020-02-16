@@ -16,3 +16,6 @@ git stash test;
 
 # ------------------------------
 git test cherry_Pick
+
+# ------------------------------
+git new branch test sth
